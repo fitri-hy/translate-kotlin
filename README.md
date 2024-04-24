@@ -1,6 +1,6 @@
 # Translation Kotlin
 
- Simple Gemini Chatbot AI App Using Kotlin In Android Studio SDK 34 In Android Studio
+ Simple translation Kotlin application that supports multiple languages SDK 34 In Android Studio
 
  <img src="Screenshot.png"/>
  
