@@ -1,13 +1,13 @@
 # Translation Kotlin
 
- Simple Gemini Chatbot AI App Using Kotlin In Android Studio SDK 34
+ Simple Gemini Chatbot AI App Using Kotlin In Android Studio SDK 34 In Android Studio
 
  <img src="Screenshot.png"/>
  
 ## Instalation
 - Clone Repositories
 ```
-https://github.com/fitri-hy/chatbot-gemini-kotlin.git
+git clone https://github.com/fitri-hy/chatbot-gemini-kotlin.git
 ```
 - Import Project in Android Studio
 - Run / Build Project
