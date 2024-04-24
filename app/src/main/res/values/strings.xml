@@ -1,0 +1,82 @@
+<resources>
+    <string name="app_name">Translate App</string>
+    <string-array name="language_array">
+        <item>Indonesia</item>
+        <item>Inggris</item>
+        <item>Jawa</item>
+        <item>Sunda</item>
+        <item>Afrikaans</item>
+        <item>Albania</item>
+        <item>Amharic</item>
+        <item>Arab</item>
+        <item>Aragonese</item>
+        <item>Armenia</item>
+        <item>Assamese</item>
+        <item>Avar</item>
+        <item>Avestan</item>
+        <item>Azeri</item>
+        <item>Basque</item>
+        <item>Belarusian</item>
+        <item>Bengali</item>
+        <item>Bihari</item>
+        <item>Bislama</item>
+        <item>Bosnian</item>
+        <item>Breton</item>
+        <item>Bulgarian</item>
+        <item>Burmese</item>
+        <item>Catalan</item>
+        <item>Cebuano</item>
+        <item>Chichewa</item>
+        <item>Chinese (Simplified)</item>
+        <item>Chinese (Traditional)</item>
+        <item>Corsican</item>
+        <item>Croatian</item>
+        <item>Czech</item>
+        <item>Danish</item>
+        <item>Dutch</item>
+        <item>Esperanto</item>
+        <item>Estonian</item>
+        <item>Ewe</item>
+        <item>Filipino</item>
+        <item>Finnish</item>
+        <item>French</item>
+        <item>Frisian</item>
+        <item>Galician</item>
+        <item>Georgian</item>
+        <item>German</item>
+        <item>Greek</item>
+        <item>Gujarati</item>
+        <item>Haitian Creole</item>
+        <item>Hausa</item>
+        <item>Hebrew</item>
+        <item>Hindi</item>
+        <item>Hungarian</item>
+        <item>Icelandic</item>
+        <item>Igbo</item>
+        <item>Irish</item>
+        <item>Italian</item>
+        <item>Japanese</item>
+        <item>Javanese</item>
+        <item>Kannada</item>
+        <item>Kazakh</item>
+        <item>Khmer</item>
+        <item>Korean</item>
+        <item>Kurdish (Kurmanji)</item>
+        <item>Kyrgyz</item>
+        <item>Lao</item>
+        <item>Latvian</item>
+        <item>Lithuanian</item>
+        <item>Luxembourgish</item>
+        <item>Macedonian</item>
+        <item>Malagasy</item>
+        <item>Malay</item>
+        <item>Malayalam</item>
+        <item>Maltese</item>
+        <item>Maori</item>
+        <item>Marathi</item>
+        <item>Mongolian</item>
+        <item>Nepali</item>
+        <item>Norwegian</item>
+        <item>Nyanja (Chichewa)</item>
+    </string-array>
+</resources>
